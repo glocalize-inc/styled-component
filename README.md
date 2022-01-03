@@ -1,2 +1,1 @@
-# renewal-website-tempo
-# renewal-website-tempo
+# Styled component
