@@ -1,4 +1,5 @@
 import "./App.css";
+import Button from "./components/common/button";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         >
           Learn React
         </a>
+        <Button label="TESTBTN" size="long" />
       </header>
     </div>
   );
